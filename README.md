@@ -15,3 +15,6 @@ hackathon project repository
 
 3 , run the project 
 - npm run dev
+
+
+sadly movement labs deprecated mevm chain :(
